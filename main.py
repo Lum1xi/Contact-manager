@@ -12,3 +12,4 @@ def main():
 
         elif choise == "3":
             print(display_contacts())
+main()
